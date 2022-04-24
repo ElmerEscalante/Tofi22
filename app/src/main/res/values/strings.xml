@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tofi22</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo electronico</string>
+
+</resources>
